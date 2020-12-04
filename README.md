@@ -2,3 +2,5 @@
 ## Upload Imgae to firebase 
 
 # DEMO : https://mk-knight23.github.io/upload-img-fire
+
+![Screenshot](up-ss.png)
